@@ -29,7 +29,7 @@ Quick Start
 
 ```shell
 $ git clone https://github.com/r-park/todo-react-redux.git
-$ cd todo-react-redux
+$ cd agro-diary
 $ npm install
 $ npm start
 ```
